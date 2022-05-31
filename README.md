@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on the crm web and low code in YMM.
 - 🌱 I’m currently learning Node/Python/user experience.
-- 📫 How to reach me: wechat(song78423)
 
 [![Ly525's GitHub stats](https://github-readme-stats.vercel.app/api?username=ly525&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
